@@ -29,3 +29,7 @@ function draw() {
   fill(255,255,0)
   circle(nose.x, nose.y, 20);
 }
+
+Go in index.html in P5 Editor and paste this library in a new line.
+Library:-
+<script src="https://unpkg.com/ml5@0.4.3/dist/ml5.min.js"></script>
